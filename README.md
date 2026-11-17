@@ -2,6 +2,14 @@
 
 Download links for ZETSU LITE KEYLESS.
 
+## KEYLESS ZETSU LITE HITAM LEGAM 2.747.1486
+
+| File | Download |
+|------|----------|
+| KEYLESS ZETSU LITE HITAM LEGAM 01 | [Download](https://github.com/zerose3/ZETSU-FILES/releases/download/hitam-legam-v2.747.1486/KEYLESS.ZETSU.LITE.HITAM.LEGAM.01-2.747.1486.apk) |
+| KEYLESS ZETSU LITE HITAM LEGAM 02 | [Download](https://github.com/zerose3/ZETSU-FILES/releases/download/hitam-legam-v2.747.1486/KEYLESS.ZETSU.LITE.HITAM.LEGAM.02-2.747.1486.apk) |
+| KEYLESS ZETSU LITE HITAM LEGAM 03 | [Download](https://github.com/zerose3/ZETSU-FILES/releases/download/hitam-legam-v2.747.1486/KEYLESS.ZETSU.LITE.HITAM.LEGAM.03-2.747.1486.apk) |
+
 ## ZETSU LITE KEYLESS 2.745.1142
 
 | File | Download |
